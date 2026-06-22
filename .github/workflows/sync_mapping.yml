@@ -1,0 +1,39 @@
+on:
+  push:
+    paths:
+      - 'data/mapping_data/**'   # only triggers when mapping files change
+
+jobs:
+  sync-to-adls:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed mapping files
+        id: changed-files
+        uses: tj-actions/changed-files@v45
+        with:
+          files: data/mapping_data/**
+
+      - name: Upload changed files to ADLS
+        env:
+          AZURE_STORAGE_CONNECTION_STRING: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        run: |
+          # On first push, changed-files can't detect changes: fall back to all mapping files
+          if [ "${{ steps.changed-files.outputs.any_changed }}" == "true" ]; then
+            files="${{ steps.changed-files.outputs.all_changed_files }}"
+          else
+            files=$(find data/mapping_data -type f)
+          fi
+
+          for file in $files; do
+            blob_name="bronze/${file#data/}"
+            az storage blob upload \
+              --connection-string "$AZURE_STORAGE_CONNECTION_STRING" \
+              --container-name ride-hailing-lake \
+              --file "$file" \
+              --name "$blob_name" \
+              --overwrite true
+          done

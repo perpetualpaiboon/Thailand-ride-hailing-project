@@ -1,0 +1,68 @@
+[
+  {
+    "ride_option_id": 1,
+    "ride_option_name": "Economy",
+    "vehicle_class": "Sedan",
+    "passenger_capacity": 4,
+    "base_rate": 45.00,
+    "per_km": 9.00,
+    "per_minute": 2.50,
+    "is_active": true,
+    "retired_at": null
+  },
+  {
+    "ride_option_id": 2,
+    "ride_option_name": "Taxi",
+    "vehicle_class": "Taxi",
+    "passenger_capacity": 4,
+    "base_rate": 55.00,
+    "per_km": 6.50,
+    "per_minute": 2.00,
+    "is_active": true,
+    "retired_at": null
+  },
+  {
+    "ride_option_id": 3,
+    "ride_option_name": "Bike",
+    "vehicle_class": "Motorcycle",
+    "passenger_capacity": 1,
+    "base_rate": 20.00,
+    "per_km": 10.00,
+    "per_minute": 2.00,
+    "is_active": true,
+    "retired_at": null
+  },
+  {
+    "ride_option_id": 4,
+    "ride_option_name": "Premium",
+    "vehicle_class": "Premium Sedan",
+    "passenger_capacity": 4,
+    "base_rate": 100.00,
+    "per_km": 15.00,
+    "per_minute": 4.00,
+    "is_active": true,
+    "retired_at": null
+  },
+  {
+    "ride_option_id": 5,
+    "ride_option_name": "SUV",
+    "vehicle_class": "SUV",
+    "passenger_capacity": 4,
+    "base_rate": 80.00,
+    "per_km": 12.00,
+    "per_minute": 3.00,
+    "is_active": true,
+    "retired_at": null
+  },
+  {
+    "ride_option_id": 6,
+    "ride_option_name": "Van",
+    "vehicle_class": "Van",
+    "passenger_capacity": 10,
+    "base_rate": 150.00,
+    "per_km": 20.00,
+    "per_minute": 5.00,
+    "is_active": true,
+    "retired_at": null
+  }
+]

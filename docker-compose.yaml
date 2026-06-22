@@ -1,0 +1,16 @@
+services:
+  nominatim:
+    image: mediagis/nominatim:5.3
+    container_name: pipeline-nominatim-thailand-local
+
+    ports:
+      - "8080:8080"
+
+    environment:
+      PBF_URL: https://download.geofabrik.de/asia/thailand-latest.osm.pbf
+
+    volumes:
+      - nominatim-thailand-data:/var/lib/postgresql/16/main
+
+volumes:
+  nominatim-thailand-data:

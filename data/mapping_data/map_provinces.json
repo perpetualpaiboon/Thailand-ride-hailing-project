@@ -1,0 +1,310 @@
+[
+  {
+    "province_id": "TH-10",
+    "province_name": "Bangkok"
+  },
+  {
+    "province_id": "TH-11",
+    "province_name": "Samut Prakan"
+  },
+  {
+    "province_id": "TH-12",
+    "province_name": "Nonthaburi"
+  },
+  {
+    "province_id": "TH-13",
+    "province_name": "Pathum Thani"
+  },
+  {
+    "province_id": "TH-14",
+    "province_name": "Phra Nakhon Si Ayutthaya"
+  },
+  {
+    "province_id": "TH-15",
+    "province_name": "Ang Thong"
+  },
+  {
+    "province_id": "TH-16",
+    "province_name": "Lop Buri"
+  },
+  {
+    "province_id": "TH-17",
+    "province_name": "Sing Buri"
+  },
+  {
+    "province_id": "TH-18",
+    "province_name": "Chai Nat"
+  },
+  {
+    "province_id": "TH-19",
+    "province_name": "Saraburi"
+  },
+  {
+    "province_id": "TH-20",
+    "province_name": "Chon Buri"
+  },
+  {
+    "province_id": "TH-21",
+    "province_name": "Rayong"
+  },
+  {
+    "province_id": "TH-22",
+    "province_name": "Chanthaburi"
+  },
+  {
+    "province_id": "TH-23",
+    "province_name": "Trat"
+  },
+  {
+    "province_id": "TH-24",
+    "province_name": "Chachoengsao"
+  },
+  {
+    "province_id": "TH-25",
+    "province_name": "Prachin Buri"
+  },
+  {
+    "province_id": "TH-26",
+    "province_name": "Nakhon Nayok"
+  },
+  {
+    "province_id": "TH-27",
+    "province_name": "Sa Kaeo"
+  },
+  {
+    "province_id": "TH-30",
+    "province_name": "Nakhon Ratchasima"
+  },
+  {
+    "province_id": "TH-31",
+    "province_name": "Buri Ram"
+  },
+  {
+    "province_id": "TH-32",
+    "province_name": "Surin"
+  },
+  {
+    "province_id": "TH-33",
+    "province_name": "Si Sa Ket"
+  },
+  {
+    "province_id": "TH-34",
+    "province_name": "Ubon Ratchathani"
+  },
+  {
+    "province_id": "TH-35",
+    "province_name": "Yasothon"
+  },
+  {
+    "province_id": "TH-36",
+    "province_name": "Chaiyaphum"
+  },
+  {
+    "province_id": "TH-37",
+    "province_name": "Amnat Charoen"
+  },
+  {
+    "province_id": "TH-38",
+    "province_name": "Bueng Kan"
+  },
+  {
+    "province_id": "TH-39",
+    "province_name": "Nong Bua Lam Phu"
+  },
+  {
+    "province_id": "TH-40",
+    "province_name": "Khon Kaen"
+  },
+  {
+    "province_id": "TH-41",
+    "province_name": "Udon Thani"
+  },
+  {
+    "province_id": "TH-42",
+    "province_name": "Loei"
+  },
+  {
+    "province_id": "TH-43",
+    "province_name": "Nong Khai"
+  },
+  {
+    "province_id": "TH-44",
+    "province_name": "Maha Sarakham"
+  },
+  {
+    "province_id": "TH-45",
+    "province_name": "Roi Et"
+  },
+  {
+    "province_id": "TH-46",
+    "province_name": "Kalasin"
+  },
+  {
+    "province_id": "TH-47",
+    "province_name": "Sakon Nakhon"
+  },
+  {
+    "province_id": "TH-48",
+    "province_name": "Nakhon Phanom"
+  },
+  {
+    "province_id": "TH-49",
+    "province_name": "Mukdahan"
+  },
+  {
+    "province_id": "TH-50",
+    "province_name": "Chiang Mai"
+  },
+  {
+    "province_id": "TH-51",
+    "province_name": "Lamphun"
+  },
+  {
+    "province_id": "TH-52",
+    "province_name": "Lampang"
+  },
+  {
+    "province_id": "TH-53",
+    "province_name": "Uttaradit"
+  },
+  {
+    "province_id": "TH-54",
+    "province_name": "Phrae"
+  },
+  {
+    "province_id": "TH-55",
+    "province_name": "Nan"
+  },
+  {
+    "province_id": "TH-56",
+    "province_name": "Phayao"
+  },
+  {
+    "province_id": "TH-57",
+    "province_name": "Chiang Rai"
+  },
+  {
+    "province_id": "TH-58",
+    "province_name": "Mae Hong Son"
+  },
+  {
+    "province_id": "TH-60",
+    "province_name": "Nakhon Sawan"
+  },
+  {
+    "province_id": "TH-61",
+    "province_name": "Uthai Thani"
+  },
+  {
+    "province_id": "TH-62",
+    "province_name": "Kamphaeng Phet"
+  },
+  {
+    "province_id": "TH-63",
+    "province_name": "Tak"
+  },
+  {
+    "province_id": "TH-64",
+    "province_name": "Sukhothai"
+  },
+  {
+    "province_id": "TH-65",
+    "province_name": "Phitsanulok"
+  },
+  {
+    "province_id": "TH-66",
+    "province_name": "Phichit"
+  },
+  {
+    "province_id": "TH-67",
+    "province_name": "Phetchabun"
+  },
+  {
+    "province_id": "TH-70",
+    "province_name": "Ratchaburi"
+  },
+  {
+    "province_id": "TH-71",
+    "province_name": "Kanchanaburi"
+  },
+  {
+    "province_id": "TH-72",
+    "province_name": "Suphan Buri"
+  },
+  {
+    "province_id": "TH-73",
+    "province_name": "Nakhon Pathom"
+  },
+  {
+    "province_id": "TH-74",
+    "province_name": "Samut Sakhon"
+  },
+  {
+    "province_id": "TH-75",
+    "province_name": "Samut Songkhram"
+  },
+  {
+    "province_id": "TH-76",
+    "province_name": "Phetchaburi"
+  },
+  {
+    "province_id": "TH-77",
+    "province_name": "Prachuap Khiri Khan"
+  },
+  {
+    "province_id": "TH-80",
+    "province_name": "Nakhon Si Thammarat"
+  },
+  {
+    "province_id": "TH-81",
+    "province_name": "Krabi"
+  },
+  {
+    "province_id": "TH-82",
+    "province_name": "Phangnga"
+  },
+  {
+    "province_id": "TH-83",
+    "province_name": "Phuket"
+  },
+  {
+    "province_id": "TH-84",
+    "province_name": "Surat Thani"
+  },
+  {
+    "province_id": "TH-85",
+    "province_name": "Ranong"
+  },
+  {
+    "province_id": "TH-86",
+    "province_name": "Chumphon"
+  },
+  {
+    "province_id": "TH-90",
+    "province_name": "Songkhla"
+  },
+  {
+    "province_id": "TH-91",
+    "province_name": "Satun"
+  },
+  {
+    "province_id": "TH-92",
+    "province_name": "Trang"
+  },
+  {
+    "province_id": "TH-93",
+    "province_name": "Phatthalung"
+  },
+  {
+    "province_id": "TH-94",
+    "province_name": "Pattani"
+  },
+  {
+    "province_id": "TH-95",
+    "province_name": "Yala"
+  },
+  {
+    "province_id": "TH-96",
+    "province_name": "Narathiwat"
+  }
+]

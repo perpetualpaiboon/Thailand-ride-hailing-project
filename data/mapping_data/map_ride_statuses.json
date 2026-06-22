@@ -1,0 +1,10 @@
+[
+  {
+    "ride_status_id": 1,
+    "ride_status": "Completed"
+  },
+  {
+    "ride_status_id": 2,
+    "ride_status": "Cancelled"
+  }
+]
